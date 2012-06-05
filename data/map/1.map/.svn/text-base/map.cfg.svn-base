@@ -1,0 +1,14 @@
+{
+    "background" : null,
+    "backcolor" : [0,0,0],
+	"tank_info" : 
+	{
+		"normal":5,
+		"hard":5
+	},
+    "player" : "normal",
+    "slash" : ["1.png","2.png","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"],
+    "sound" : "Mozart_Piano_Sonata_Amin3.ogg",
+    "mapfile":"map",
+	"size":[815,700]
+}

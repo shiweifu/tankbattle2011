@@ -1,0 +1,8 @@
+{
+"name" : "hard",
+"speed" : 3,
+"health" : 50,
+"attack" : 5,
+"bullet_s" : "bullet.wav",
+"move_s" : "move.wav"
+}
